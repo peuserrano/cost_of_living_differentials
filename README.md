@@ -1,4 +1,4 @@
-# spatial econometrics - an analysis cost of living differentials
+# spatial econometrics - an analysis of cost of living differentials
 
 this code provides a brief analysis of the cost of living differentials in the metropolitan regions of some selected Brazilian capitals compared to the city of Recife, capital of the state of Pernambuco;
 
