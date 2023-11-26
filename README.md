@@ -1,4 +1,4 @@
-# cost_of_living_differentials
+# econometrics_cost_of_living_differentials
 
 A brief analysis of the cost of living differentials in the metropolitan regions of some selected Brazilian capitals compared to the city of Recife, capital of the state of Pernambuco;
 
